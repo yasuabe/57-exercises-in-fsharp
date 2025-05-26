@@ -1,5 +1,8 @@
 ﻿namespace Common
 
-module Say =
-    let hello name =
-        printfn "Hello %s" name
+open System.IO
+
+module Input =
+    let promptInput (input: TextReader) (output: TextWriter) (prompt: string) =
+        output.Write(prompt)
+        input.ReadLine()
