@@ -10,7 +10,7 @@ A personal project to solve the exercises from the book *Exercises for Programme
 | Ex01 [x] [Saying Hello](src/Ex01/Program.fs)                      | | | 1(1)
 | Ex02 [ ] [Counting the Number of Characters](src/Ex02/Program.fs) | | |
 | Ex03 [ ] [Printing Quotes](src/Ex03/Program.fs)                   | | |
-| Ex04 [ ] [Mad Lib](src/Ex04/Program.fs)                           | | |
+| Ex04 [x] [Mad Lib](src/Ex04/Program.fs)                           | | | 1(1)
 | Ex05 [ ] [Simple Math](src/Ex05/Program.fs)                       | | |
 | Ex06 [ ] [Retirement Calculator](src/Ex06/Program.fs)             | | |
 #### Chapter 3: Calculations
