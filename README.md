@@ -8,7 +8,7 @@ A personal project to solve the exercises from the book *Exercises for Programme
 | Exercise | dependencies | Memo  | Lv.  |
 | -------- | -------------| ----- | -----:|
 | Ex01 [x] [Saying Hello](src/Ex01/Program.fs)                      | | | 1(1)
-| Ex02 [ ] [Counting the Number of Characters](src/Ex02/Program.fs) | | |
+| Ex02 [x] [Counting the Number of Characters](src/Ex02/Program.fs) | | | 1(1)
 | Ex03 [ ] [Printing Quotes](src/Ex03/Program.fs)                   | | |
 | Ex04 [x] [Mad Lib](src/Ex04/Program.fs)                           | | | 1(1)
 | Ex05 [ ] [Simple Math](src/Ex05/Program.fs)                       | | |
